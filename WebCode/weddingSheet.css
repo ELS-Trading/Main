@@ -1,0 +1,17 @@
+.feature { background:whitesmoke;padding:12px;}
+			.feature-inner { margin:auto;width:370px; }
+			.feature-inner h1 {color:gold;font-size:52px;}
+ 
+* {margin: 0; padding: 0;}
+ 
+body {
+	<!-- src: http://subtlepatterns.com/?p=1045 -->
+	background: url('dark_geometric.png');
+}
+ 
+#container {
+	width: 1000px;
+	overflow: hidden;
+	margin: 50px auto;
+	background: white;
+}
